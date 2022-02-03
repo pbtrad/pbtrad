@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Artists Portfolio Website**
 
-- 🌱 I’m currently learning **Go, Blockchains, Smart Contracts**
+- 🌱 I’m currently learning **Go, Blockchains, Smart Contracts, Django Channels**
 
 - 📫 How to reach me **paulbrowne2@gmail.com**
 
