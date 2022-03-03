@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pbtrad" target="blank"><img src="https://img.shields.io/twitter/follow/pbtrad?logo=twitter&style=for-the-badge" alt="pbtrad" /></a> </p>
 
-- 🔭 I’m currently working on **Property Website with Django and React**
+- 🔭 I’m currently working on **Go URL shortener**
 
 - 🌱 I’m currently learning **Go, Django Channels**
 
