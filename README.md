@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pbtrad" target="blank"><img src="https://img.shields.io/twitter/follow/pbtrad?logo=twitter&style=for-the-badge" alt="pbtrad" /></a> </p>
 
-- 🔭 I’m currently working on **Go URL shortener**
+- 🔭 I’m currently working on **Go Serverless with Lambda and AWS DynamoDB**
 
 - 🌱 I’m currently learning **Go, Django Channels**
 
