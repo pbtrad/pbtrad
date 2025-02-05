@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/pbtrad" target="blank"><img src="https://img.shields.io/twitter/follow/pbtrad?logo=twitter&style=for-the-badge" alt="pbtrad" /></a> </p>
 
-- 🔭 I’m currently working on **Go Fundamentals**
-
-- 🌱 I’m currently learning **Go, Django Channels**
-
 - 📫 How to reach me **paulbrowne2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
